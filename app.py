@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 28 12:54:39 2022
-
-@author: hp
-"""
 
 
 
